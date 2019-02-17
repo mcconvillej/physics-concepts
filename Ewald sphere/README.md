@@ -1,0 +1,1 @@
+A simple orthographic representation of the Ewald sphere intersecting points in part o f a reciprocal lattice, and a representative diffraction pattern (AKA Laue photograph) projected onto a screen. The large black point represents the centre of the screen, while the light grey point (visible when mouse pressed or screen touched) is the direction of the incident X-Ray.
