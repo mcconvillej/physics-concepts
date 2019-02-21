@@ -62,11 +62,11 @@ ax4.imshow(g, cmap='Greys',  interpolation='nearest')
 plt.savefig('chaos_games.png')
 plt.show()
 
-
+''' option to display single plot
 g = chaos_game(100000)
 plt.imshow(g, cmap='Greys',  interpolation='nearest')
 plt.subplot(2,1,2)
 g = chaos_game(100000)
 plt.imshow(g, cmap='Greys',  interpolation='nearest')
 plt.savefig('chaos_games.png')
-
+'''
